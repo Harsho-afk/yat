@@ -1,0 +1,36 @@
+
+# Compiled binaries
+a.out
+*.o
+*.obj
+*.exe
+*.so
+*.a
+*.out
+
+# Build directories (future)
+build/
+cmake-build-*/
+
+# Test binaries
+terminal_session_test
+
+# Debug and temporary output
+*.log
+*.tmp
+core
+core.*
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
